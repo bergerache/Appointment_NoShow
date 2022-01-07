@@ -4,6 +4,8 @@
 #### A person makes a doctor appointment, receives all the instructions and doesn't show up. 
 #### Is it feasible to predict this behaviour?  
 
+#### For a better view of the notebook: https://nbviewer.org/github/bergerache/Appointment_NoShow/blob/main/Appointment_NoShow.ipynb
+
 The data contains 110,527 medical appointments with 14 features: 
 - Patient ID 
 - Appointment ID 
